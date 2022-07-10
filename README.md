@@ -5,10 +5,14 @@ API для социальной сети, в которой пользовате
 
 ### Технологии: 
 
-Python3, 
-Django, 
-DjangoORM, 
-Django REST Framework, 
+Python3,
+
+Django,
+
+DjangoORM,
+
+Django REST Framework,
+
 SQLite
 
 Запустить проект можно следующим образом:
